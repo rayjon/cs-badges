@@ -9,7 +9,7 @@ $courses = $json_data['courses']['completed'];
 	<head>
 		<meta charset="utf-8">
 		<title>Raymond Johnson - Code School Badges</title>
-		<link rel="stylesheet" href="/badges/main.css" media="screen" title="no title" charset="utf-8">
+		<link rel="stylesheet" href="/main.css" media="screen" title="no title" charset="utf-8">
 	</head>
 <body>
 	<header>
