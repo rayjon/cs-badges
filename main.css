@@ -1,0 +1,7 @@
+.badges {
+    display: flex;
+}
+
+.badge img {
+    max-width: 10rem;
+}
